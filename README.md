@@ -128,15 +128,40 @@ dependencies {
 
 
 ## 프로젝트 사용 방법
-### 설치
 
-```
-npm install
-```
-
-```
-npm run dev
-```
+![그림1](https://user-images.githubusercontent.com/95121282/216317160-8a4342b8-215a-443f-a586-ee5edb0f0f92.jpg)
+![그림2](https://user-images.githubusercontent.com/95121282/216317167-1df0cf35-bc04-4d9f-9719-3fc48b208369.jpg)
+![그림3](https://user-images.githubusercontent.com/95121282/216317168-7e1b602e-5f28-4ced-8f06-41ed3f704fcb.png)
+![그림4](https://user-images.githubusercontent.com/95121282/216317170-4d2307fe-1b82-4daa-afff-1d7de2231ef0.jpg)
+![그림5](https://user-images.githubusercontent.com/95121282/216317173-403b42e4-92c7-40fe-9d03-a35f70f31efc.jpg)
+![그림6](https://user-images.githubusercontent.com/95121282/216317176-2da8e529-d8f0-4b73-b143-18b7cb4baabe.jpg)
+![그림7](https://user-images.githubusercontent.com/95121282/216317178-80b8b2d7-3225-47d2-a51e-2fd133f5455f.jpg)
+![그림8](https://user-images.githubusercontent.com/95121282/216317181-7ab23551-14f0-4fe5-b8a9-a5bcdc0960cd.png)
+![그림9](https://user-images.githubusercontent.com/95121282/216317183-692c780f-a3c7-438d-a813-b2fdd11b25bf.jpg)
+![그림10](https://user-images.githubusercontent.com/95121282/216317184-bb2bb884-6e4b-4ed5-b766-e5896dd77430.png)
+![그림11](https://user-images.githubusercontent.com/95121282/216317187-b5a573bf-a1e7-4ee7-9544-26b451b422e9.png)
+![그림12](https://user-images.githubusercontent.com/95121282/216317191-daeb7c1c-c5d6-45e1-b4e5-f6d9fcc0e563.png)
+![그림13](https://user-images.githubusercontent.com/95121282/216317192-2c77e5bc-b272-469c-b51c-ffd93408a463.jpg)
+![그림14](https://user-images.githubusercontent.com/95121282/216317195-abb63b8e-e583-4b42-842a-2a62b4b074ba.png)
+<img width="1022" alt="그림15" src="https://user-images.githubusercontent.com/95121282/216317197-ba77e7cc-939e-4146-9b77-dca01637d6f7.png">
+![그림16](https://user-images.githubusercontent.com/95121282/216317201-b200b456-d69b-4526-9f8e-1fe8396e7038.png)
+![그림17](https://user-images.githubusercontent.com/95121282/216317203-645d0f6b-b85f-423f-b7ca-7ef7c3158cd7.jpg)
+![그림18](https://user-images.githubusercontent.com/95121282/216317205-f6497070-b054-4e05-8d95-002c6f37f55d.png)
+![그림19](https://user-images.githubusercontent.com/95121282/216317210-34a3ec8c-169d-43c7-a7a6-5ec5008c05b2.png)
+![그림20](https://user-images.githubusercontent.com/95121282/216317211-6c1e9338-61be-4727-b839-27b21f91b218.png)
+![그림21](https://user-images.githubusercontent.com/95121282/216317215-5f0053ea-a77e-42e3-8801-b88d0bc14696.png)
+![그림22](https://user-images.githubusercontent.com/95121282/216317219-f2a9d061-e487-4307-8fd5-cb1b2e1cf558.jpg)
+![그림23](https://user-images.githubusercontent.com/95121282/216317220-eb190585-bab8-48ab-b8c1-f266b52f35ab.png)
+![그림24](https://user-images.githubusercontent.com/95121282/216317222-3d833f6a-08fe-4274-9334-8932858e582e.png)
+![그림25](https://user-images.githubusercontent.com/95121282/216317225-333d6568-a8ef-4418-801d-d809fbe38363.png)
+![그림26](https://user-images.githubusercontent.com/95121282/216317229-5df1a4b3-245e-4ffe-a10f-6757e7ec59c2.png)
+![그림27](https://user-images.githubusercontent.com/95121282/216317231-be732db1-6af5-4cf8-b80a-b2c2ac4f3795.png)
+![그림28](https://user-images.githubusercontent.com/95121282/216317233-b12cbae8-46ad-4121-b886-e258ec7b9faa.png)
+![그림29](https://user-images.githubusercontent.com/95121282/216317235-e33d2987-6f19-4541-b16c-e39e3f1da303.png)
+![그림30](https://user-images.githubusercontent.com/95121282/216317237-c7daad7c-4a29-4724-b0b1-06b111b0c090.png)
+![그림31](https://user-images.githubusercontent.com/95121282/216317238-d8aba846-b753-40da-a368-5567cfdc03d9.jpg)
+![그림32](https://user-images.githubusercontent.com/95121282/216317239-95879840-0e64-4a55-8ad8-612aa44c9125.jpg)
+![그림33](https://user-images.githubusercontent.com/95121282/216317241-448b31d4-5e00-493e-8e31-abb737b0830b.jpg)
 
 
 
