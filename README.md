@@ -187,29 +187,53 @@ dependencies {
 * 스터디 정보 , 멘토 정보, 스터디 참여 신청 및 수락 여부 확인 가능
 * 해당 스터디 전용 캘린더, 화면 공유 페이지, 게시판 페이지로 이동 가능
 * full calendar API 사용해서 스터디 일정 관리
-	
+* 화면 공유, 팀 채팅 가능 및 캔버스로 이미지 공유 하고 그 위에 그림 그리기 가능
 	
 <img width="1022" alt="그림15" src="https://user-images.githubusercontent.com/95121282/216320251-845a1c2b-cd7d-4f93-9c05-a4f878c414af.png">
 ![그림16](https://user-images.githubusercontent.com/95121282/216317201-b200b456-d69b-4526-9f8e-1fe8396e7038.png)
 ![그림17](https://user-images.githubusercontent.com/95121282/216317203-645d0f6b-b85f-423f-b7ca-7ef7c3158cd7.jpg)
-![그림18](https://user-images.githubusercontent.com/95121282/216317205-f6497070-b054-4e05-8d95-002c6f37f55d.png)
-
-
-
-![그림19](https://user-images.githubusercontent.com/95121282/216317210-34a3ec8c-169d-43c7-a7a6-5ec5008c05b2.png)
 ![그림20](https://user-images.githubusercontent.com/95121282/216317211-6c1e9338-61be-4727-b839-27b21f91b218.png)
 ![그림21](https://user-images.githubusercontent.com/95121282/216317215-5f0053ea-a77e-42e3-8801-b88d0bc14696.png)
 ![그림22](https://user-images.githubusercontent.com/95121282/216317219-f2a9d061-e487-4307-8fd5-cb1b2e1cf558.jpg)
+
+### 스터디 내부 게시판 글 등록 및 게시글
+
+
+![그림18](https://user-images.githubusercontent.com/95121282/216317205-f6497070-b054-4e05-8d95-002c6f37f55d.png)
+![그림19](https://user-images.githubusercontent.com/95121282/216317210-34a3ec8c-169d-43c7-a7a6-5ec5008c05b2.png)
+
+
+### Q & A게시판 리스트, 게시글, 게시글 작성
+* 리스트 맨 앞 이미지로 답변 채택 여부와 A : 답변 수 확인 가능
+* ckEditor 사용해서 이미지 업로드 및 마크다운 입력하도록 구현, 질문 시 사용한 언어 태그 선택 가능
+* 게시글에서 글 작성자가 게시물을 볼 때 수정 삭제버튼 배치 아닐 때는 일반적인 정보 확인 가능, 좋아요 기능 구현
+
+
 ![그림23](https://user-images.githubusercontent.com/95121282/216317220-eb190585-bab8-48ab-b8c1-f266b52f35ab.png)
-![그림24](https://user-images.githubusercontent.com/95121282/216317222-3d833f6a-08fe-4274-9334-8932858e582e.png)
 ![그림25](https://user-images.githubusercontent.com/95121282/216317225-333d6568-a8ef-4418-801d-d809fbe38363.png)
-![그림26](https://user-images.githubusercontent.com/95121282/216317229-5df1a4b3-245e-4ffe-a10f-6757e7ec59c2.png)
-![그림27](https://user-images.githubusercontent.com/95121282/216317231-be732db1-6af5-4cf8-b80a-b2c2ac4f3795.png)
-![그림28](https://user-images.githubusercontent.com/95121282/216317233-b12cbae8-46ad-4121-b886-e258ec7b9faa.png)
+![그림24](https://user-images.githubusercontent.com/95121282/216317222-3d833f6a-08fe-4274-9334-8932858e582e.png)
+
+
+### 관리자 페이지(회원관리, 신고관리)
+* 일반 회원, 멘토 신청 시 해당 분류의 회원 정보를 목록으로 제공, 회원 검색 가능, 멘토 회원은 파란색으로 표시
+* 멘토 신청 관리에서 멘토가 업로드한 URL 클릭해 페이지로 이동 가능하며, 관리자 계정으로 멘토 승인 가능
+* 신고회원은 빨간색으로 처리, 관리자 계정으로 해당 회원 강제 탈퇴 가능
+* 일반 회원, 멘토 클릭 시 모달 창으로 해당 회원의 마이페이지 팝업 제공
+* 글의 리스트를 그래프로 확인 가능하도록 구현
+
+
 ![그림29](https://user-images.githubusercontent.com/95121282/216317235-e33d2987-6f19-4541-b16c-e39e3f1da303.png)
 ![그림30](https://user-images.githubusercontent.com/95121282/216317237-c7daad7c-4a29-4724-b0b1-06b111b0c090.png)
 ![그림31](https://user-images.githubusercontent.com/95121282/216317238-d8aba846-b753-40da-a368-5567cfdc03d9.jpg)
+![그림26](https://user-images.githubusercontent.com/95121282/216317229-5df1a4b3-245e-4ffe-a10f-6757e7ec59c2.png)
+![그림27](https://user-images.githubusercontent.com/95121282/216317231-be732db1-6af5-4cf8-b80a-b2c2ac4f3795.png)
+![그림28](https://user-images.githubusercontent.com/95121282/216317233-b12cbae8-46ad-4121-b886-e258ec7b9faa.png)
 ![그림32](https://user-images.githubusercontent.com/95121282/216317239-95879840-0e64-4a55-8ad8-612aa44c9125.jpg)
+
+
+### 공지사항  
+
+
 ![그림33](https://user-images.githubusercontent.com/95121282/216317241-448b31d4-5e00-493e-8e31-abb737b0830b.jpg)
 
 
@@ -217,3 +241,5 @@ dependencies {
 ---
 ## 참고 자료
 * Full Calendar : [https://fullcalendar.io/docs/view-api](https://fullcalendar.io/docs/view-api)
+* 화면 공유 기능 참조 깃허브 : [https://github.com/nbalance97/mentomenti](https://github.com/nbalance97/mentomenti)
+* ckEditor : [https://ckeditor.com/docs/ckeditor4/latest/](https://ckeditor.com/docs/ckeditor4/latest/)
