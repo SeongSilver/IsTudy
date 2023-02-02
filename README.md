@@ -189,12 +189,19 @@ dependencies {
 * full calendar API 사용해서 스터디 일정 관리
 * 화면 공유, 팀 채팅 가능 및 캔버스로 이미지 공유 하고 그 위에 그림 그리기 가능
 	
-<img width="1022" alt="그림15" src="https://user-images.githubusercontent.com/95121282/216320251-845a1c2b-cd7d-4f93-9c05-a4f878c414af.png">
-![그림16](https://user-images.githubusercontent.com/95121282/216317201-b200b456-d69b-4526-9f8e-1fe8396e7038.png)
-![그림17](https://user-images.githubusercontent.com/95121282/216317203-645d0f6b-b85f-423f-b7ca-7ef7c3158cd7.jpg)
-![그림20](https://user-images.githubusercontent.com/95121282/216317211-6c1e9338-61be-4727-b839-27b21f91b218.png)
-![그림21](https://user-images.githubusercontent.com/95121282/216317215-5f0053ea-a77e-42e3-8801-b88d0bc14696.png)
-![그림22](https://user-images.githubusercontent.com/95121282/216317219-f2a9d061-e487-4307-8fd5-cb1b2e1cf558.jpg)
+<img width="1022" alt="그림15" src="https://user-images.githubusercontent.com/95121282/216320251-845a1c2b-cd7d-4f93-9c05-a4f878c414af.png">   
+
+
+![그림16](https://user-images.githubusercontent.com/95121282/216323095-eefb515f-add3-4571-b2a8-b0d15cdbdcbb.png)  
+
+![그림17](https://user-images.githubusercontent.com/95121282/216323102-a3d14d4d-ea74-4af3-abf3-68188ec54596.jpg)  
+
+![그림20](https://user-images.githubusercontent.com/95121282/216323133-04a3e6c4-f26d-40ea-9e98-dde835c6794a.png)  
+
+![그림21](https://user-images.githubusercontent.com/95121282/216323135-2a1e8295-4cc8-4fb2-8ace-1a5149809497.png)  
+
+![그림22](https://user-images.githubusercontent.com/95121282/216323137-7f7edd53-ee7e-4c22-a4ca-4e7e415b4657.jpg)  
+
 
 ### 스터디 내부 게시판 글 등록 및 게시글
 
@@ -222,13 +229,13 @@ dependencies {
 * 글의 리스트를 그래프로 확인 가능하도록 구현
 
 
-![그림29](https://user-images.githubusercontent.com/95121282/216317235-e33d2987-6f19-4541-b16c-e39e3f1da303.png)
-![그림30](https://user-images.githubusercontent.com/95121282/216317237-c7daad7c-4a29-4724-b0b1-06b111b0c090.png)
-![그림31](https://user-images.githubusercontent.com/95121282/216317238-d8aba846-b753-40da-a368-5567cfdc03d9.jpg)
-![그림26](https://user-images.githubusercontent.com/95121282/216317229-5df1a4b3-245e-4ffe-a10f-6757e7ec59c2.png)
-![그림27](https://user-images.githubusercontent.com/95121282/216317231-be732db1-6af5-4cf8-b80a-b2c2ac4f3795.png)
-![그림28](https://user-images.githubusercontent.com/95121282/216317233-b12cbae8-46ad-4121-b886-e258ec7b9faa.png)
-![그림32](https://user-images.githubusercontent.com/95121282/216317239-95879840-0e64-4a55-8ad8-612aa44c9125.jpg)
+![그림29](https://user-images.githubusercontent.com/95121282/216317235-e33d2987-6f19-4541-b16c-e39e3f1da303.png)  
+![그림30](https://user-images.githubusercontent.com/95121282/216317237-c7daad7c-4a29-4724-b0b1-06b111b0c090.png)  
+![그림31](https://user-images.githubusercontent.com/95121282/216317238-d8aba846-b753-40da-a368-5567cfdc03d9.jpg)  
+![그림26](https://user-images.githubusercontent.com/95121282/216317229-5df1a4b3-245e-4ffe-a10f-6757e7ec59c2.png)  
+![그림27](https://user-images.githubusercontent.com/95121282/216317231-be732db1-6af5-4cf8-b80a-b2c2ac4f3795.png)  
+![그림28](https://user-images.githubusercontent.com/95121282/216317233-b12cbae8-46ad-4121-b886-e258ec7b9faa.png)  
+![그림32](https://user-images.githubusercontent.com/95121282/216317239-95879840-0e64-4a55-8ad8-612aa44c9125.jpg)  
 
 
 ### 공지사항  
