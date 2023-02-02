@@ -129,24 +129,73 @@ dependencies {
 
 ## 프로젝트 사용 방법
 
+### 메인페이지
+* 로그인한 사용자가 회원가입시 선택한 선호하는 스터디 종류를 두번째 섹션에서 출력, 해당 창에서 스터디 정보 확인 가능 및 클릭 시 해당 스터디 이동
+* 유저들에게 좋아요를 가장 많이 받은 멘토를 세번째 섹션에 자동 슬라이드로 배치
+* 마지막 섹션에는 최근 6개의 채용정보를 열람 할 수 있도록 배치
+
 ![그림1](https://user-images.githubusercontent.com/95121282/216317160-8a4342b8-215a-443f-a586-ee5edb0f0f92.jpg)
 ![그림2](https://user-images.githubusercontent.com/95121282/216317167-1df0cf35-bc04-4d9f-9719-3fc48b208369.jpg)
 ![그림3](https://user-images.githubusercontent.com/95121282/216317168-7e1b602e-5f28-4ced-8f06-41ed3f704fcb.png)
 ![그림4](https://user-images.githubusercontent.com/95121282/216317170-4d2307fe-1b82-4daa-afff-1d7de2231ef0.jpg)
+
+
+### 로그인, 아이디찾기, 비밀번호 찾기 및 회원가입, 회원 정보 수정
+* 아이디 찾기, 비밀번호 찾기, 로그인, 회원가입 링크 클릭 시 해당 페이지 이동
+* 아이디 찾기 시 뒷자리를 제외한 회원 아이디 정보 제공
+* 비밀번호 찾기 시 회원 이메일로 임의 비밀번호 생성해 전송
+* 회원가입 시 유효성 검사 및 중복확인 구현
+* 회원 정보 수정 시 회원 수정하려넌 항목 수정 후 수정하기 버튼클릭하여 수정 완료
+
 ![그림5](https://user-images.githubusercontent.com/95121282/216317173-403b42e4-92c7-40fe-9d03-a35f70f31efc.jpg)
 ![그림6](https://user-images.githubusercontent.com/95121282/216317176-2da8e529-d8f0-4b73-b143-18b7cb4baabe.jpg)
 ![그림7](https://user-images.githubusercontent.com/95121282/216317178-80b8b2d7-3225-47d2-a51e-2fd133f5455f.jpg)
+
+
+### 마이페이지(글관리)
+* 작성한 글, 댓글 단 글 버튼 클릭 시 해당 글 목록으로 제공
+* 글 제목 클릭 시 해당 글 페이지로 이동, 검색창에 입력해 찾고자 하는 글 확인 가능
+* 진행 스터디, 완료 스터디, 찜한 스터디 버튼 클릭 시 해당 스터디 목록으로 제공
+
+
 ![그림8](https://user-images.githubusercontent.com/95121282/216317181-7ab23551-14f0-4fe5-b8a9-a5bcdc0960cd.png)
 ![그림9](https://user-images.githubusercontent.com/95121282/216317183-692c780f-a3c7-438d-a813-b2fdd11b25bf.jpg)
+
+
+### 스터디 정보 등록 페이지
+* 1단계 : 스터디 제목, 분류 선택 후 다음창으로 비동기 이동
+* 2단계 : 스터디 썸네일로 사용될 대표 이미지를 업로드, 스터디의 내용을 입력 후 다음 창으로 비동기 이동
+* 3단계 : 스터디 모집 인원, 규칙 입력 후 다음창 비동기 이동
+* 4단계 : 스터디 기간 입력, 스터디 사용 언어를 드래그로 사용하는 언어 섹션에 이동, 스터디 룸 해시태그를 입력 후 등록 가능
+
+
 ![그림10](https://user-images.githubusercontent.com/95121282/216317184-bb2bb884-6e4b-4ed5-b766-e5896dd77430.png)
 ![그림11](https://user-images.githubusercontent.com/95121282/216317187-b5a573bf-a1e7-4ee7-9544-26b451b422e9.png)
 ![그림12](https://user-images.githubusercontent.com/95121282/216317191-daeb7c1c-c5d6-45e1-b4e5-f6d9fcc0e563.png)
 ![그림13](https://user-images.githubusercontent.com/95121282/216317192-2c77e5bc-b272-469c-b51c-ffd93408a463.jpg)
+
+
+
+### 스터디 리스트 페이지
+* 왼쪽 사이드 바에서 스터디 종류를 필터링 해서 목록에 띄울 수 있고 제목, 아이디, 닉네임 등을 검색해서 해당 스터디 글을 확인 가능
+* 스터디 목록에서 해당 스터디가 멘토/일반 글인지, 제목, 분류, 스터디 장의 닉네임, 참여 인원, 기간, 사용 언어와 스터디의 키워드를 해시태그 확인가능
+
 ![그림14](https://user-images.githubusercontent.com/95121282/216317195-abb63b8e-e583-4b42-842a-2a62b4b074ba.png)
-<img width="1022" alt="그림15" src="https://user-images.githubusercontent.com/95121282/216317197-ba77e7cc-939e-4146-9b77-dca01637d6f7.png">
+
+
+### 스터디 게시글  
+* 스터디 정보 , 멘토 정보, 스터디 참여 신청 및 수락 여부 확인 가능
+* 해당 스터디 전용 캘린더, 화면 공유 페이지, 게시판 페이지로 이동 가능
+* full calendar API 사용해서 스터디 일정 관리
+	
+	
+<img width="1022" alt="그림15" src="https://user-images.githubusercontent.com/95121282/216320251-845a1c2b-cd7d-4f93-9c05-a4f878c414af.png">
 ![그림16](https://user-images.githubusercontent.com/95121282/216317201-b200b456-d69b-4526-9f8e-1fe8396e7038.png)
 ![그림17](https://user-images.githubusercontent.com/95121282/216317203-645d0f6b-b85f-423f-b7ca-7ef7c3158cd7.jpg)
 ![그림18](https://user-images.githubusercontent.com/95121282/216317205-f6497070-b054-4e05-8d95-002c6f37f55d.png)
+
+
+
 ![그림19](https://user-images.githubusercontent.com/95121282/216317210-34a3ec8c-169d-43c7-a7a6-5ec5008c05b2.png)
 ![그림20](https://user-images.githubusercontent.com/95121282/216317211-6c1e9338-61be-4727-b839-27b21f91b218.png)
 ![그림21](https://user-images.githubusercontent.com/95121282/216317215-5f0053ea-a77e-42e3-8801-b88d0bc14696.png)
@@ -167,3 +216,4 @@ dependencies {
 
 ---
 ## 참고 자료
+* Full Calendar : [https://fullcalendar.io/docs/view-api](https://fullcalendar.io/docs/view-api)
